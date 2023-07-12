@@ -1,0 +1,1244 @@
+{
+    "heroes": [
+        {
+            "name": "ABADDON",
+            "primary_attrib": "UNIVERSAL",
+            "attack_type": "MELEE",
+            "skill_1": "Mist Coil ",
+            "skill_2": "Aphotic Shield ",
+            "skill_3": "Curse of Avernus ",
+            "skill_4": "Borrowed Time ",
+            "skill_5": "None"
+        },
+        {
+            "name": "ALCHEMIST",
+            "primary_attrib": "STRENGTH",
+            "attack_type": "MELEE",
+            "skill_1": "Acid Spray ",
+            "skill_2": "Unstable Concoction ",
+            "skill_3": "Corrosive Weaponry ",
+            "skill_4": "Chemical Rage ",
+            "skill_5": "None"
+        },
+        {
+            "name": "ANCIENT APPARITION",
+            "primary_attrib": "INTELLIGENCE",
+            "attack_type": "RANGED",
+            "skill_1": "Cold Feet ",
+            "skill_2": "Ice Vortex ",
+            "skill_3": "Chilling Touch ",
+            "skill_4": "Ice Blast ",
+            "skill_5": "None"
+        },
+        {
+            "name": "ANTI-MAGE",
+            "primary_attrib": "AGILITY",
+            "attack_type": "MELEE",
+            "skill_1": "Mana Break ",
+            "skill_2": "Blink ",
+            "skill_3": "Counterspell ",
+            "skill_4": "Mana Void ",
+            "skill_5": "None"
+        },
+        {
+            "name": "ARC WARDEN",
+            "primary_attrib": "AGILITY",
+            "attack_type": "RANGED",
+            "skill_1": "Flux ",
+            "skill_2": "Magnetic Field ",
+            "skill_3": "Spark Wraith ",
+            "skill_4": "Tempest Double ",
+            "skill_5": "None"
+        },
+        {
+            "name": "AXE",
+            "primary_attrib": "STRENGTH",
+            "attack_type": "MELEE",
+            "skill_1": "Berserker's Call ",
+            "skill_2": "Battle Hunger ",
+            "skill_3": "Counter Helix ",
+            "skill_4": "Culling Blade ",
+            "skill_5": "None"
+        },
+        {
+            "name": "BANE",
+            "primary_attrib": "UNIVERSAL",
+            "attack_type": "RANGED",
+            "skill_1": "Enfeeble ",
+            "skill_2": "Brain Sap ",
+            "skill_3": "Nightmare ",
+            "skill_4": "Fiend's Grip ",
+            "skill_5": "None"
+        },
+        {
+            "name": "BATRIDER",
+            "primary_attrib": "UNIVERSAL",
+            "attack_type": "RANGED",
+            "skill_1": "Sticky Napalm ",
+            "skill_2": "Flamebreak ",
+            "skill_3": "Firefly ",
+            "skill_4": "Flaming Lasso ",
+            "skill_5": "None"
+        },
+        {
+            "name": "BEASTMASTER",
+            "primary_attrib": "UNIVERSAL",
+            "attack_type": "MELEE",
+            "skill_1": "Wild Axes ",
+            "skill_2": "Call of the Wild Boar ",
+            "skill_3": "Call of the Wild Hawk ",
+            "skill_4": "Inner Beast ",
+            "skill_5": "Primal Roar "
+        },
+        {
+            "name": "BLOODSEEKER",
+            "primary_attrib": "AGILITY",
+            "attack_type": "MELEE",
+            "skill_1": "Bloodrage ",
+            "skill_2": "Blood Rite ",
+            "skill_3": "Thirst ",
+            "skill_4": "Rupture ",
+            "skill_5": "None"
+        },
+        {
+            "name": "BOUNTY HUNTER",
+            "primary_attrib": "AGILITY",
+            "attack_type": "MELEE",
+            "skill_1": "Shuriken Toss ",
+            "skill_2": "Jinada ",
+            "skill_3": "Shadow Walk ",
+            "skill_4": "Track ",
+            "skill_5": "None"
+        },
+        {
+            "name": "BREWMASTER",
+            "primary_attrib": "UNIVERSAL",
+            "attack_type": "MELEE",
+            "skill_1": "Thunder Clap ",
+            "skill_2": "Cinder Brew ",
+            "skill_3": "Drunken Brawler ",
+            "skill_4": "Primal Split ",
+            "skill_5": "None"
+        },
+        {
+            "name": "BRISTLEBACK",
+            "primary_attrib": "STRENGTH",
+            "attack_type": "MELEE",
+            "skill_1": "Viscous Nasal Goo ",
+            "skill_2": "Quill Spray ",
+            "skill_3": "Bristleback ",
+            "skill_4": "Warpath ",
+            "skill_5": "None"
+        },
+        {
+            "name": "BROODMOTHER",
+            "primary_attrib": "UNIVERSAL",
+            "attack_type": "MELEE",
+            "skill_1": "Insatiable Hunger ",
+            "skill_2": "Spin Web ",
+            "skill_3": "Silken Bola ",
+            "skill_4": "Spawn Spiderlings ",
+            "skill_5": "None"
+        },
+        {
+            "name": "CENTAUR WARRUNNER",
+            "primary_attrib": "STRENGTH",
+            "attack_type": "MELEE",
+            "skill_1": "Hoof Stomp ",
+            "skill_2": "Double Edge ",
+            "skill_3": "Retaliate ",
+            "skill_4": "Stampede ",
+            "skill_5": "None"
+        },
+        {
+            "name": "CHAOS KNIGHT",
+            "primary_attrib": "STRENGTH",
+            "attack_type": "MELEE",
+            "skill_1": "Chaos Bolt ",
+            "skill_2": "Reality Rift ",
+            "skill_3": "Chaos Strike ",
+            "skill_4": "Phantasm ",
+            "skill_5": "None"
+        },
+        {
+            "name": "CHEN",
+            "primary_attrib": "UNIVERSAL",
+            "attack_type": "RANGED",
+            "skill_1": "Penitence ",
+            "skill_2": "Holy Persuasion ",
+            "skill_3": "Divine Favor ",
+            "skill_4": "Hand of God ",
+            "skill_5": "None"
+        },
+        {
+            "name": "CLINKZ",
+            "primary_attrib": "AGILITY",
+            "attack_type": "RANGED",
+            "skill_1": "Strafe ",
+            "skill_2": "Tar Bomb ",
+            "skill_3": "Death Pact ",
+            "skill_4": "Skeleton Walk ",
+            "skill_5": "None"
+        },
+        {
+            "name": "CLOCKWERK",
+            "primary_attrib": "UNIVERSAL",
+            "attack_type": "MELEE",
+            "skill_1": "Battery Assault ",
+            "skill_2": "Power Cogs ",
+            "skill_3": "Rocket Flare ",
+            "skill_4": "Hookshot ",
+            "skill_5": "None"
+        },
+        {
+            "name": "CRYSTAL MAIDEN",
+            "primary_attrib": "INTELLIGENCE",
+            "attack_type": "RANGED",
+            "skill_1": "Crystal Nova ",
+            "skill_2": "Frostbite ",
+            "skill_3": "Arcane Aura ",
+            "skill_4": "Freezing Field ",
+            "skill_5": "None"
+        },
+        {
+            "name": "DARK SEER",
+            "primary_attrib": "UNIVERSAL",
+            "attack_type": "MELEE",
+            "skill_1": "Vacuum ",
+            "skill_2": "Ion Shell ",
+            "skill_3": "Surge ",
+            "skill_4": "Wall of Replica ",
+            "skill_5": "None"
+        },
+        {
+            "name": "DARK WILLOW",
+            "primary_attrib": "UNIVERSAL",
+            "attack_type": "RANGED",
+            "skill_1": "Bramble Maze ",
+            "skill_2": "Shadow Realm ",
+            "skill_3": "Cursed Crown ",
+            "skill_4": "Bedlam ",
+            "skill_5": "Terrorize "
+        },
+        {
+            "name": "DAWNBREAKER",
+            "primary_attrib": "STRENGTH",
+            "attack_type": "MELEE",
+            "skill_1": "Starbreaker ",
+            "skill_2": "Celestial Hammer ",
+            "skill_3": "Luminosity ",
+            "skill_4": "Solar Guardian ",
+            "skill_5": "None"
+        },
+        {
+            "name": "DAZZLE",
+            "primary_attrib": "UNIVERSAL",
+            "attack_type": "RANGED",
+            "skill_1": "Poison Touch ",
+            "skill_2": "Shallow Grave ",
+            "skill_3": "Shadow Wave ",
+            "skill_4": "Bad Juju ",
+            "skill_5": "None"
+        },
+        {
+            "name": "DEATH PROPHET",
+            "primary_attrib": "INTELLIGENCE",
+            "attack_type": "RANGED",
+            "skill_1": "Crypt Swarm ",
+            "skill_2": "Silence ",
+            "skill_3": "Spirit Siphon ",
+            "skill_4": "Exorcism ",
+            "skill_5": "None"
+        },
+        {
+            "name": "DISRUPTOR",
+            "primary_attrib": "INTELLIGENCE",
+            "attack_type": "RANGED",
+            "skill_1": "Thunder Strike ",
+            "skill_2": "Glimpse ",
+            "skill_3": "Kinetic Field ",
+            "skill_4": "Static Storm ",
+            "skill_5": "None"
+        },
+        {
+            "name": "DOOM",
+            "primary_attrib": "STRENGTH",
+            "attack_type": "MELEE",
+            "skill_1": "Devour ",
+            "skill_2": "Scorched Earth ",
+            "skill_3": "Infernal Blade ",
+            "skill_4": "Doom ",
+            "skill_5": "None"
+        },
+        {
+            "name": "DRAGON KNIGHT",
+            "primary_attrib": "STRENGTH",
+            "attack_type": "MELEE",
+            "skill_1": "Breathe Fire ",
+            "skill_2": "Dragon Tail ",
+            "skill_3": "Dragon Blood ",
+            "skill_4": "Elder Dragon Form ",
+            "skill_5": "None"
+        },
+        {
+            "name": "DROW RANGER",
+            "primary_attrib": "AGILITY",
+            "attack_type": "RANGED",
+            "skill_1": "Frost Arrows ",
+            "skill_2": "Gust ",
+            "skill_3": "Multishot ",
+            "skill_4": "Marksmanship ",
+            "skill_5": "None"
+        },
+        {
+            "name": "EARTH SPIRIT",
+            "primary_attrib": "STRENGTH",
+            "attack_type": "MELEE",
+            "skill_1": "Boulder Smash ",
+            "skill_2": "Rolling Boulder ",
+            "skill_3": "Geomagnetic Grip ",
+            "skill_4": "Stone Remnant ",
+            "skill_5": "Magnetize "
+        },
+        {
+            "name": "EARTHSHAKER",
+            "primary_attrib": "STRENGTH",
+            "attack_type": "MELEE",
+            "skill_1": "Fissure ",
+            "skill_2": "Enchant Totem ",
+            "skill_3": "Aftershock ",
+            "skill_4": "Echo Slam ",
+            "skill_5": "None"
+        },
+        {
+            "name": "ELDER TITAN",
+            "primary_attrib": "STRENGTH",
+            "attack_type": "MELEE",
+            "skill_1": "Echo Stomp ",
+            "skill_2": "Astral Spirit ",
+            "skill_3": "Natural Order ",
+            "skill_4": "Earth Splitter ",
+            "skill_5": "None"
+        },
+        {
+            "name": "EMBER SPIRIT",
+            "primary_attrib": "AGILITY",
+            "attack_type": "MELEE",
+            "skill_1": "Searing Chains ",
+            "skill_2": "Sleight of Fist ",
+            "skill_3": "Flame Guard ",
+            "skill_4": "Activate Fire Remnant ",
+            "skill_5": "Fire Remnant "
+        },
+        {
+            "name": "ENCHANTRESS",
+            "primary_attrib": "INTELLIGENCE",
+            "attack_type": "RANGED",
+            "skill_1": "Impetus ",
+            "skill_2": "Enchant ",
+            "skill_3": "Nature's Attendants ",
+            "skill_4": "Untouchable ",
+            "skill_5": "None"
+        },
+        {
+            "name": "ENIGMA",
+            "primary_attrib": "UNIVERSAL",
+            "attack_type": "RANGED",
+            "skill_1": "Malefice ",
+            "skill_2": "Demonic Conversion ",
+            "skill_3": "Midnight Pulse ",
+            "skill_4": "Black Hole ",
+            "skill_5": "None"
+        },
+        {
+            "name": "FACELESS VOID",
+            "primary_attrib": "AGILITY",
+            "attack_type": "MELEE",
+            "skill_1": "Time Walk ",
+            "skill_2": "Time Dilation ",
+            "skill_3": "Time Lock ",
+            "skill_4": "Chronosphere ",
+            "skill_5": "None"
+        },
+        {
+            "name": "GRIMSTROKE",
+            "primary_attrib": "INTELLIGENCE",
+            "attack_type": "RANGED",
+            "skill_1": "Stroke of Fate ",
+            "skill_2": "Phantom's Embrace ",
+            "skill_3": "Ink Swell ",
+            "skill_4": "Soulbind ",
+            "skill_5": "None"
+        },
+        {
+            "name": "GYROCOPTER",
+            "primary_attrib": "AGILITY",
+            "attack_type": "RANGED",
+            "skill_1": "Rocket Barrage ",
+            "skill_2": "Homing Missile ",
+            "skill_3": "Flak Cannon ",
+            "skill_4": "Call Down ",
+            "skill_5": "None"
+        },
+        {
+            "name": "HOODWINK",
+            "primary_attrib": "AGILITY",
+            "attack_type": "RANGED",
+            "skill_1": "Acorn Shot ",
+            "skill_2": "Bushwhack ",
+            "skill_3": "Scurry ",
+            "skill_4": "Sharpshooter ",
+            "skill_5": "None"
+        },
+        {
+            "name": "HUSKAR",
+            "primary_attrib": "STRENGTH",
+            "attack_type": "RANGED",
+            "skill_1": "Inner Fire ",
+            "skill_2": "Burning Spear ",
+            "skill_3": "Berserker's Blood ",
+            "skill_4": "Life Break ",
+            "skill_5": "None"
+        },
+        {
+            "name": "INVOKER",
+            "primary_attrib": "INTELLIGENCE",
+            "attack_type": "RANGED",
+            "skill_1": "Quas ",
+            "skill_2": "Wex ",
+            "skill_3": "Exort ",
+            "skill_4": "Invoke ",
+            "skill_5": "None"
+        },
+        {
+            "name": "IO",
+            "primary_attrib": "UNIVERSAL",
+            "attack_type": "RANGED",
+            "skill_1": "Tether ",
+            "skill_2": "Spirits ",
+            "skill_3": "Overcharge ",
+            "skill_4": "Spirits In ",
+            "skill_5": "Spirits Out "
+        },
+        {
+            "name": "JAKIRO",
+            "primary_attrib": "INTELLIGENCE",
+            "attack_type": "RANGED",
+            "skill_1": "Dual Breath ",
+            "skill_2": "Ice Path ",
+            "skill_3": "Liquid Fire ",
+            "skill_4": "Macropyre ",
+            "skill_5": "None"
+        },
+        {
+            "name": "JUGGERNAUT",
+            "primary_attrib": "AGILITY",
+            "attack_type": "MELEE",
+            "skill_1": "Blade Fury ",
+            "skill_2": "Healing Ward ",
+            "skill_3": "Blade Dance ",
+            "skill_4": "Omnislash ",
+            "skill_5": "None"
+        },
+        {
+            "name": "KEEPER OF THE LIGHT",
+            "primary_attrib": "INTELLIGENCE",
+            "attack_type": "RANGED",
+            "skill_1": "Illuminate ",
+            "skill_2": "Blinding Light ",
+            "skill_3": "Chakra Magic ",
+            "skill_4": "Solar Bind ",
+            "skill_5": "Spirit Form "
+        },
+        {
+            "name": "KUNKKA",
+            "primary_attrib": "STRENGTH",
+            "attack_type": "MELEE",
+            "skill_1": "Torrent ",
+            "skill_2": "Tidebringer ",
+            "skill_3": "X Marks the Spot ",
+            "skill_4": "Ghostship ",
+            "skill_5": "None"
+        },
+        {
+            "name": "LEGION COMMANDER",
+            "primary_attrib": "STRENGTH",
+            "attack_type": "MELEE",
+            "skill_1": "Overwhelming Odds ",
+            "skill_2": "Press The Attack ",
+            "skill_3": "Moment of Courage ",
+            "skill_4": "Duel ",
+            "skill_5": "None"
+        },
+        {
+            "name": "LESHRAC",
+            "primary_attrib": "INTELLIGENCE",
+            "attack_type": "RANGED",
+            "skill_1": "Split Earth ",
+            "skill_2": "Diabolic Edict ",
+            "skill_3": "Lightning Storm ",
+            "skill_4": "Pulse Nova ",
+            "skill_5": "None"
+        },
+        {
+            "name": "LICH",
+            "primary_attrib": "INTELLIGENCE",
+            "attack_type": "RANGED",
+            "skill_1": "Frost Blast ",
+            "skill_2": "Frost Shield ",
+            "skill_3": "Sinister Gaze ",
+            "skill_4": "Chain Frost ",
+            "skill_5": "None"
+        },
+        {
+            "name": "LIFESTEALER",
+            "primary_attrib": "STRENGTH",
+            "attack_type": "MELEE",
+            "skill_1": "Rage ",
+            "skill_2": "Feast ",
+            "skill_3": "Ghoul Frenzy ",
+            "skill_4": "Infest ",
+            "skill_5": "None"
+        },
+        {
+            "name": "LINA",
+            "primary_attrib": "INTELLIGENCE",
+            "attack_type": "RANGED",
+            "skill_1": "Dragon Slave ",
+            "skill_2": "Light Strike Array ",
+            "skill_3": "Fiery Soul ",
+            "skill_4": "Laguna Blade ",
+            "skill_5": "None"
+        },
+        {
+            "name": "LION",
+            "primary_attrib": "INTELLIGENCE",
+            "attack_type": "RANGED",
+            "skill_1": "Earth Spike ",
+            "skill_2": "Hex ",
+            "skill_3": "Mana Drain ",
+            "skill_4": "Finger of Death ",
+            "skill_5": "None"
+        },
+        {
+            "name": "LONE DRUID",
+            "primary_attrib": "UNIVERSAL",
+            "attack_type": "RANGED",
+            "skill_1": "Summon Spirit Bear ",
+            "skill_2": "Spirit Link ",
+            "skill_3": "Savage Roar ",
+            "skill_4": "True Form ",
+            "skill_5": "None"
+        },
+        {
+            "name": "LUNA",
+            "primary_attrib": "AGILITY",
+            "attack_type": "RANGED",
+            "skill_1": "Lucent Beam ",
+            "skill_2": "Moon Glaives ",
+            "skill_3": "Lunar Blessing ",
+            "skill_4": "Eclipse ",
+            "skill_5": "None"
+        },
+        {
+            "name": "LYCAN",
+            "primary_attrib": "UNIVERSAL",
+            "attack_type": "MELEE",
+            "skill_1": "Summon Wolves ",
+            "skill_2": "Howl ",
+            "skill_3": "Feral Impulse ",
+            "skill_4": "Shapeshift ",
+            "skill_5": "None"
+        },
+        {
+            "name": "MAGNUS",
+            "primary_attrib": "UNIVERSAL",
+            "attack_type": "MELEE",
+            "skill_1": "Shockwave ",
+            "skill_2": "Empower ",
+            "skill_3": "Skewer ",
+            "skill_4": "Reverse Polarity ",
+            "skill_5": "None"
+        },
+        {
+            "name": "MARCI",
+            "primary_attrib": "UNIVERSAL",
+            "attack_type": "MELEE",
+            "skill_1": "Dispose ",
+            "skill_2": "Rebound ",
+            "skill_3": "Sidekick ",
+            "skill_4": "Unleash ",
+            "skill_5": "None"
+        },
+        {
+            "name": "MARS",
+            "primary_attrib": "STRENGTH",
+            "attack_type": "MELEE",
+            "skill_1": "Spear of Mars ",
+            "skill_2": "God's Rebuke ",
+            "skill_3": "Bulwark ",
+            "skill_4": "Arena Of Blood ",
+            "skill_5": "None"
+        },
+        {
+            "name": "MEDUSA",
+            "primary_attrib": "AGILITY",
+            "attack_type": "RANGED",
+            "skill_1": "Split Shot ",
+            "skill_2": "Mystic Snake ",
+            "skill_3": "Mana Shield ",
+            "skill_4": "Stone Gaze ",
+            "skill_5": "None"
+        },
+        {
+            "name": "MEEPO",
+            "primary_attrib": "AGILITY",
+            "attack_type": "MELEE",
+            "skill_1": "Earthbind ",
+            "skill_2": "Poof ",
+            "skill_3": "Ransack ",
+            "skill_4": "Divided We Stand ",
+            "skill_5": "None"
+        },
+        {
+            "name": "MIRANA",
+            "primary_attrib": "UNIVERSAL",
+            "attack_type": "RANGED",
+            "skill_1": "Starstorm ",
+            "skill_2": "Sacred Arrow ",
+            "skill_3": "Leap ",
+            "skill_4": "Moonlight Shadow ",
+            "skill_5": "None"
+        },
+        {
+            "name": "MONKEY KING",
+            "primary_attrib": "AGILITY",
+            "attack_type": "MELEE",
+            "skill_1": "Boundless Strike ",
+            "skill_2": "Tree Dance ",
+            "skill_3": "Jingu Mastery ",
+            "skill_4": "Wukong's Command ",
+            "skill_5": "None"
+        },
+        {
+            "name": "MORPHLING",
+            "primary_attrib": "AGILITY",
+            "attack_type": "RANGED",
+            "skill_1": "Waveform ",
+            "skill_2": "Adaptive Strike (Agility) ",
+            "skill_3": "Adaptive Strike (Strength) ",
+            "skill_4": "Attribute Shift (Agility Gain) ",
+            "skill_5": "Attribute Shift (Strength Gain) "
+        },
+        {
+            "name": "MUERTA",
+            "primary_attrib": "INTELLIGENCE",
+            "attack_type": "RANGED",
+            "skill_1": "Dead Shot ",
+            "skill_2": "The Calling ",
+            "skill_3": "Gunslinger ",
+            "skill_4": "Pierce the Veil ",
+            "skill_5": "None"
+        },
+        {
+            "name": "NAGA SIREN",
+            "primary_attrib": "AGILITY",
+            "attack_type": "MELEE",
+            "skill_1": "Mirror Image ",
+            "skill_2": "Ensnare ",
+            "skill_3": "Rip Tide ",
+            "skill_4": "Song of the Siren ",
+            "skill_5": "None"
+        },
+        {
+            "name": "NATURE'S PROPHET",
+            "primary_attrib": "INTELLIGENCE",
+            "attack_type": "RANGED",
+            "skill_1": "Sprout ",
+            "skill_2": "Teleportation ",
+            "skill_3": "Nature's Call ",
+            "skill_4": "Wrath of Nature ",
+            "skill_5": "None"
+        },
+        {
+            "name": "NECROPHOS",
+            "primary_attrib": "INTELLIGENCE",
+            "attack_type": "RANGED",
+            "skill_1": "Death Pulse ",
+            "skill_2": "Ghost Shroud ",
+            "skill_3": "Heartstopper Aura ",
+            "skill_4": "Reaper's Scythe ",
+            "skill_5": "None"
+        },
+        {
+            "name": "NIGHT STALKER",
+            "primary_attrib": "STRENGTH",
+            "attack_type": "MELEE",
+            "skill_1": "Void ",
+            "skill_2": "Crippling Fear ",
+            "skill_3": "Hunter in the Night ",
+            "skill_4": "Dark Ascension ",
+            "skill_5": "None"
+        },
+        {
+            "name": "NYX ASSASSIN",
+            "primary_attrib": "UNIVERSAL",
+            "attack_type": "MELEE",
+            "skill_1": "Impale ",
+            "skill_2": "Mind Flare ",
+            "skill_3": "Spiked Carapace ",
+            "skill_4": "Vendetta ",
+            "skill_5": "None"
+        },
+        {
+            "name": "OGRE MAGI",
+            "primary_attrib": "STRENGTH",
+            "attack_type": "MELEE",
+            "skill_1": "Fireblast ",
+            "skill_2": "Ignite ",
+            "skill_3": "Bloodlust ",
+            "skill_4": "Multicast ",
+            "skill_5": "Dumb Luck "
+        },
+        {
+            "name": "OMNIKNIGHT",
+            "primary_attrib": "STRENGTH",
+            "attack_type": "MELEE",
+            "skill_1": "Purification ",
+            "skill_2": "Heavenly Grace ",
+            "skill_3": "Hammer of Purity ",
+            "skill_4": "Guardian Angel ",
+            "skill_5": "None"
+        },
+        {
+            "name": "ORACLE",
+            "primary_attrib": "INTELLIGENCE",
+            "attack_type": "RANGED",
+            "skill_1": "Fortune's End ",
+            "skill_2": "Fate's Edict ",
+            "skill_3": "Purifying Flames ",
+            "skill_4": "False Promise ",
+            "skill_5": "None"
+        },
+        {
+            "name": "OUTWORLD DESTROYER",
+            "primary_attrib": "INTELLIGENCE",
+            "attack_type": "RANGED",
+            "skill_1": "Arcane Orb ",
+            "skill_2": "Astral Imprisonment ",
+            "skill_3": "Essence Flux ",
+            "skill_4": "Sanity's Eclipse ",
+            "skill_5": "None"
+        },
+        {
+            "name": "PANGOLIER",
+            "primary_attrib": "UNIVERSAL",
+            "attack_type": "MELEE",
+            "skill_1": "Swashbuckle ",
+            "skill_2": "Shield Crash ",
+            "skill_3": "Lucky Shot ",
+            "skill_4": "Rolling Thunder ",
+            "skill_5": "None"
+        },
+        {
+            "name": "PHANTOM ASSASSIN",
+            "primary_attrib": "AGILITY",
+            "attack_type": "MELEE",
+            "skill_1": "Stifling Dagger ",
+            "skill_2": "Phantom Strike ",
+            "skill_3": "Blur ",
+            "skill_4": "Coup de Grace ",
+            "skill_5": "None"
+        },
+        {
+            "name": "PHANTOM LANCER",
+            "primary_attrib": "AGILITY",
+            "attack_type": "MELEE",
+            "skill_1": "Spirit Lance ",
+            "skill_2": "Doppelganger ",
+            "skill_3": "Phantom Rush ",
+            "skill_4": "Juxtapose ",
+            "skill_5": "None"
+        },
+        {
+            "name": "PHOENIX",
+            "primary_attrib": "UNIVERSAL",
+            "attack_type": "RANGED",
+            "skill_1": "Icarus Dive ",
+            "skill_2": "Fire Spirits ",
+            "skill_3": "Sun Ray ",
+            "skill_4": "Supernova ",
+            "skill_5": "None"
+        },
+        {
+            "name": "PRIMAL BEAST",
+            "primary_attrib": "STRENGTH",
+            "attack_type": "MELEE",
+            "skill_1": "Onslaught ",
+            "skill_2": "Trample ",
+            "skill_3": "Uproar ",
+            "skill_4": "Pulverize ",
+            "skill_5": "None"
+        },
+        {
+            "name": "PUCK",
+            "primary_attrib": "INTELLIGENCE",
+            "attack_type": "RANGED",
+            "skill_1": "Illusory Orb ",
+            "skill_2": "Waning Rift ",
+            "skill_3": "Phase Shift ",
+            "skill_4": "Dream Coil ",
+            "skill_5": "None"
+        },
+        {
+            "name": "PUDGE",
+            "primary_attrib": "STRENGTH",
+            "attack_type": "MELEE",
+            "skill_1": "Meat Hook ",
+            "skill_2": "Rot ",
+            "skill_3": "Flesh Heap ",
+            "skill_4": "Dismember ",
+            "skill_5": "None"
+        },
+        {
+            "name": "PUGNA",
+            "primary_attrib": "INTELLIGENCE",
+            "attack_type": "RANGED",
+            "skill_1": "Nether Blast ",
+            "skill_2": "Decrepify ",
+            "skill_3": "Nether Ward ",
+            "skill_4": "Life Drain ",
+            "skill_5": "None"
+        },
+        {
+            "name": "QUEEN OF PAIN",
+            "primary_attrib": "INTELLIGENCE",
+            "attack_type": "RANGED",
+            "skill_1": "Shadow Strike ",
+            "skill_2": "Blink ",
+            "skill_3": "Scream Of Pain ",
+            "skill_4": "Sonic Wave ",
+            "skill_5": "None"
+        },
+        {
+            "name": "RAZOR",
+            "primary_attrib": "AGILITY",
+            "attack_type": "RANGED",
+            "skill_1": "Plasma Field ",
+            "skill_2": "Static Link ",
+            "skill_3": "Storm Surge ",
+            "skill_4": "Eye of the Storm ",
+            "skill_5": "None"
+        },
+        {
+            "name": "RIKI",
+            "primary_attrib": "AGILITY",
+            "attack_type": "MELEE",
+            "skill_1": "Smoke Screen ",
+            "skill_2": "Blink Strike ",
+            "skill_3": "Tricks of the Trade ",
+            "skill_4": "Cloak and Dagger ",
+            "skill_5": "None"
+        },
+        {
+            "name": "RUBICK",
+            "primary_attrib": "INTELLIGENCE",
+            "attack_type": "RANGED",
+            "skill_1": "Telekinesis ",
+            "skill_2": "Fade Bolt ",
+            "skill_3": "Arcane Supremacy ",
+            "skill_4": "Spell Steal ",
+            "skill_5": "None"
+        },
+        {
+            "name": "SAND KING",
+            "primary_attrib": "UNIVERSAL",
+            "attack_type": "MELEE",
+            "skill_1": "Burrowstrike ",
+            "skill_2": "Sand Storm ",
+            "skill_3": "Caustic Finale ",
+            "skill_4": "Epicenter ",
+            "skill_5": "None"
+        },
+        {
+            "name": "SHADOW DEMON",
+            "primary_attrib": "INTELLIGENCE",
+            "attack_type": "RANGED",
+            "skill_1": "Disruption ",
+            "skill_2": "Disseminate ",
+            "skill_3": "Shadow Poison ",
+            "skill_4": "Demonic Purge ",
+            "skill_5": "None"
+        },
+        {
+            "name": "SHADOW FIEND",
+            "primary_attrib": "AGILITY",
+            "attack_type": "RANGED",
+            "skill_1": "Shadowraze ",
+            "skill_2": "Necromastery ",
+            "skill_3": "Presence of the Dark Lord ",
+            "skill_4": "Requiem of Souls ",
+            "skill_5": "None"
+        },
+        {
+            "name": "SHADOW SHAMAN",
+            "primary_attrib": "INTELLIGENCE",
+            "attack_type": "RANGED",
+            "skill_1": "Ether Shock ",
+            "skill_2": "Hex ",
+            "skill_3": "Shackles ",
+            "skill_4": "Mass Serpent Ward ",
+            "skill_5": "None"
+        },
+        {
+            "name": "SILENCER",
+            "primary_attrib": "INTELLIGENCE",
+            "attack_type": "RANGED",
+            "skill_1": "Arcane Curse ",
+            "skill_2": "Glaives of Wisdom ",
+            "skill_3": "Last Word ",
+            "skill_4": "Global Silence ",
+            "skill_5": "None"
+        },
+        {
+            "name": "SKYWRATH MAGE",
+            "primary_attrib": "INTELLIGENCE",
+            "attack_type": "RANGED",
+            "skill_1": "Arcane Bolt ",
+            "skill_2": "Concussive Shot ",
+            "skill_3": "Ancient Seal ",
+            "skill_4": "Mystic Flare ",
+            "skill_5": "None"
+        },
+        {
+            "name": "SLARDAR",
+            "primary_attrib": "STRENGTH",
+            "attack_type": "MELEE",
+            "skill_1": "Guardian Sprint ",
+            "skill_2": "Slithereen Crush ",
+            "skill_3": "Bash of the Deep ",
+            "skill_4": "Corrosive Haze ",
+            "skill_5": "None"
+        },
+        {
+            "name": "SLARK",
+            "primary_attrib": "AGILITY",
+            "attack_type": "MELEE",
+            "skill_1": "Dark Pact ",
+            "skill_2": "Pounce ",
+            "skill_3": "Essence Shift ",
+            "skill_4": "Shadow Dance ",
+            "skill_5": "None"
+        },
+        {
+            "name": "SNAPFIRE",
+            "primary_attrib": "UNIVERSAL",
+            "attack_type": "RANGED",
+            "skill_1": "Scatterblast ",
+            "skill_2": "Firesnap Cookie ",
+            "skill_3": "Lil' Shredder ",
+            "skill_4": "Mortimer Kisses ",
+            "skill_5": "None"
+        },
+        {
+            "name": "SNIPER",
+            "primary_attrib": "AGILITY",
+            "attack_type": "RANGED",
+            "skill_1": "Shrapnel ",
+            "skill_2": "Headshot ",
+            "skill_3": "Take Aim ",
+            "skill_4": "Assassinate ",
+            "skill_5": "None"
+        },
+        {
+            "name": "SPECTRE",
+            "primary_attrib": "AGILITY",
+            "attack_type": "MELEE",
+            "skill_1": "Spectral Dagger ",
+            "skill_2": "Desolate ",
+            "skill_3": "Dispersion ",
+            "skill_4": "Haunt ",
+            "skill_5": "None"
+        },
+        {
+            "name": "SPIRIT BREAKER",
+            "primary_attrib": "STRENGTH",
+            "attack_type": "MELEE",
+            "skill_1": "Charge of Darkness ",
+            "skill_2": "Bulldoze ",
+            "skill_3": "Greater Bash ",
+            "skill_4": "Nether Strike ",
+            "skill_5": "None"
+        },
+        {
+            "name": "STORM SPIRIT",
+            "primary_attrib": "INTELLIGENCE",
+            "attack_type": "RANGED",
+            "skill_1": "Static Remnant ",
+            "skill_2": "Electric Vortex ",
+            "skill_3": "Overload ",
+            "skill_4": "Ball Lightning ",
+            "skill_5": "None"
+        },
+        {
+            "name": "SVEN",
+            "primary_attrib": "STRENGTH",
+            "attack_type": "MELEE",
+            "skill_1": "Storm Hammer ",
+            "skill_2": "Great Cleave ",
+            "skill_3": "Warcry ",
+            "skill_4": "God's Strength ",
+            "skill_5": "None"
+        },
+        {
+            "name": "TECHIES",
+            "primary_attrib": "UNIVERSAL",
+            "attack_type": "RANGED",
+            "skill_1": "Sticky Bomb ",
+            "skill_2": "Reactive Tazer ",
+            "skill_3": "Blast Off! ",
+            "skill_4": "Minefield Sign ",
+            "skill_5": "Proximity Mines "
+        },
+        {
+            "name": "TEMPLAR ASSASSIN",
+            "primary_attrib": "AGILITY",
+            "attack_type": "RANGED",
+            "skill_1": "Refraction ",
+            "skill_2": "Meld ",
+            "skill_3": "Psi Blades ",
+            "skill_4": "Psionic Trap ",
+            "skill_5": "None"
+        },
+        {
+            "name": "TERRORBLADE",
+            "primary_attrib": "AGILITY",
+            "attack_type": "MELEE",
+            "skill_1": "Reflection ",
+            "skill_2": "Conjure Image ",
+            "skill_3": "Metamorphosis ",
+            "skill_4": "Sunder ",
+            "skill_5": "None"
+        },
+        {
+            "name": "TIDEHUNTER",
+            "primary_attrib": "STRENGTH",
+            "attack_type": "MELEE",
+            "skill_1": "Gush ",
+            "skill_2": "Kraken Shell ",
+            "skill_3": "Anchor Smash ",
+            "skill_4": "Ravage ",
+            "skill_5": "None"
+        },
+        {
+            "name": "TIMBERSAW",
+            "primary_attrib": "UNIVERSAL",
+            "attack_type": "MELEE",
+            "skill_1": "Whirling Death ",
+            "skill_2": "Timber Chain ",
+            "skill_3": "Reactive Armor ",
+            "skill_4": "Second Chakram ",
+            "skill_5": "Chakram "
+        },
+        {
+            "name": "TINKER",
+            "primary_attrib": "INTELLIGENCE",
+            "attack_type": "RANGED",
+            "skill_1": "Laser ",
+            "skill_2": "Heat-Seeking Missile ",
+            "skill_3": "Defense Matrix ",
+            "skill_4": "Keen Conveyance ",
+            "skill_5": "Rearm "
+        },
+        {
+            "name": "TINY",
+            "primary_attrib": "STRENGTH",
+            "attack_type": "MELEE",
+            "skill_1": "Avalanche ",
+            "skill_2": "Toss ",
+            "skill_3": "Tree Grab ",
+            "skill_4": "Grow ",
+            "skill_5": "Tree Throw "
+        },
+        {
+            "name": "TREANT PROTECTOR",
+            "primary_attrib": "STRENGTH",
+            "attack_type": "MELEE",
+            "skill_1": "Nature's Grasp ",
+            "skill_2": "Leech Seed ",
+            "skill_3": "Living Armor ",
+            "skill_4": "Nature's Guise ",
+            "skill_5": "Overgrowth "
+        },
+        {
+            "name": "TROLL WARLORD",
+            "primary_attrib": "AGILITY",
+            "attack_type": "RANGED",
+            "skill_1": "Berserker's Rage ",
+            "skill_2": "Whirling Axes (Ranged) ",
+            "skill_3": "Whirling Axes (Melee) ",
+            "skill_4": "Fervor ",
+            "skill_5": "Battle Trance "
+        },
+        {
+            "name": "TUSK",
+            "primary_attrib": "STRENGTH",
+            "attack_type": "MELEE",
+            "skill_1": "Ice Shards ",
+            "skill_2": "Snowball ",
+            "skill_3": "Tag Team ",
+            "skill_4": "Frozen Sigil ",
+            "skill_5": "Walrus PUNCH! "
+        },
+        {
+            "name": "UNDERLORD",
+            "primary_attrib": "STRENGTH",
+            "attack_type": "MELEE",
+            "skill_1": "Firestorm ",
+            "skill_2": "Pit of Malice ",
+            "skill_3": "Atrophy Aura ",
+            "skill_4": "Fiend's Gate ",
+            "skill_5": "None"
+        },
+        {
+            "name": "UNDYING",
+            "primary_attrib": "STRENGTH",
+            "attack_type": "MELEE",
+            "skill_1": "Decay ",
+            "skill_2": "Soul Rip ",
+            "skill_3": "Tombstone ",
+            "skill_4": "Flesh Golem ",
+            "skill_5": "None"
+        },
+        {
+            "name": "URSA",
+            "primary_attrib": "AGILITY",
+            "attack_type": "MELEE",
+            "skill_1": "Earthshock ",
+            "skill_2": "Overpower ",
+            "skill_3": "Fury Swipes ",
+            "skill_4": "Enrage ",
+            "skill_5": "None"
+        },
+        {
+            "name": "VENGEFUL SPIRIT",
+            "primary_attrib": "UNIVERSAL",
+            "attack_type": "RANGED",
+            "skill_1": "Magic Missile ",
+            "skill_2": "Wave of Terror ",
+            "skill_3": "Vengeance Aura ",
+            "skill_4": "Nether Swap ",
+            "skill_5": "None"
+        },
+        {
+            "name": "VENOMANCER",
+            "primary_attrib": "UNIVERSAL",
+            "attack_type": "RANGED",
+            "skill_1": "Venomous Gale ",
+            "skill_2": "Poison Sting ",
+            "skill_3": "Plague Ward ",
+            "skill_4": "Noxious Plague ",
+            "skill_5": "None"
+        },
+        {
+            "name": "VIPER",
+            "primary_attrib": "AGILITY",
+            "attack_type": "RANGED",
+            "skill_1": "Poison Attack ",
+            "skill_2": "Nethertoxin ",
+            "skill_3": "Corrosive Skin ",
+            "skill_4": "Viper Strike ",
+            "skill_5": "None"
+        },
+        {
+            "name": "VISAGE",
+            "primary_attrib": "UNIVERSAL",
+            "attack_type": "RANGED",
+            "skill_1": "Grave Chill ",
+            "skill_2": "Soul Assumption ",
+            "skill_3": "Gravekeeper's Cloak ",
+            "skill_4": "Summon Familiars ",
+            "skill_5": "None"
+        },
+        {
+            "name": "VOID SPIRIT",
+            "primary_attrib": "UNIVERSAL",
+            "attack_type": "MELEE",
+            "skill_1": "Aether Remnant ",
+            "skill_2": "Dissimilate ",
+            "skill_3": "Resonant Pulse ",
+            "skill_4": "Astral Step ",
+            "skill_5": "None"
+        },
+        {
+            "name": "WARLOCK",
+            "primary_attrib": "INTELLIGENCE",
+            "attack_type": "RANGED",
+            "skill_1": "Fatal Bonds ",
+            "skill_2": "Shadow Word ",
+            "skill_3": "Upheaval ",
+            "skill_4": "Chaotic Offering ",
+            "skill_5": "None"
+        },
+        {
+            "name": "WEAVER",
+            "primary_attrib": "AGILITY",
+            "attack_type": "RANGED",
+            "skill_1": "The Swarm ",
+            "skill_2": "Shukuchi ",
+            "skill_3": "Geminate Attack ",
+            "skill_4": "Time Lapse ",
+            "skill_5": "None"
+        },
+        {
+            "name": "WINDRANGER",
+            "primary_attrib": "UNIVERSAL",
+            "attack_type": "RANGED",
+            "skill_1": "Shackleshot ",
+            "skill_2": "Powershot ",
+            "skill_3": "Windrun ",
+            "skill_4": "Focus Fire ",
+            "skill_5": "None"
+        },
+        {
+            "name": "WINTER WYVERN",
+            "primary_attrib": "UNIVERSAL",
+            "attack_type": "RANGED",
+            "skill_1": "Arctic Burn ",
+            "skill_2": "Splinter Blast ",
+            "skill_3": "Cold Embrace ",
+            "skill_4": "Winter's Curse ",
+            "skill_5": "None"
+        },
+        {
+            "name": "WITCH DOCTOR",
+            "primary_attrib": "INTELLIGENCE",
+            "attack_type": "RANGED",
+            "skill_1": "Paralyzing Cask ",
+            "skill_2": "Voodoo Restoration ",
+            "skill_3": "Maledict ",
+            "skill_4": "Death Ward ",
+            "skill_5": "None"
+        },
+        {
+            "name": "WRAITH KING",
+            "primary_attrib": "STRENGTH",
+            "attack_type": "MELEE",
+            "skill_1": "Wraithfire Blast ",
+            "skill_2": "Vampiric Spirit ",
+            "skill_3": "Mortal Strike ",
+            "skill_4": "Reincarnation ",
+            "skill_5": "None"
+        },
+        {
+            "name": "ZEUS",
+            "primary_attrib": "INTELLIGENCE",
+            "attack_type": "RANGED",
+            "skill_1": "Arc Lightning ",
+            "skill_2": "Lightning Bolt ",
+            "skill_3": "Heavenly Jump ",
+            "skill_4": "Thundergod's Wrath ",
+            "skill_5": "None"
+        }
+    ]
+}
